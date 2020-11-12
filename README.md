@@ -7,5 +7,7 @@ Convert image Green Screen Image into Andy Warhol Like painting
 
   Install Opencv
   
+  Command
+  
       pip install opencv-python
  
